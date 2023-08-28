@@ -1,0 +1,6 @@
+{
+    "namespace": "hm_township_additions",
+    "icon": "assets/icon.png",
+    "setup": "setup.mjs",
+    "load": []
+}
